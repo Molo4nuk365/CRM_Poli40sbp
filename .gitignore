@@ -1,0 +1,7 @@
+.vs/
+bin/
+obj/
+packages/
+*.db
+*.db-journal
+*.db-wal
