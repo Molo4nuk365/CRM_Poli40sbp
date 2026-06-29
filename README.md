@@ -69,11 +69,8 @@
 База данных SQLite состоит из четырёх таблиц:
 
 **Admins** — администраторы системы (Id, Login, Password, FullName)
-
 **Doctors** — врачи поликлиники (Id, LastName, FirstName, MiddleName, Specialization, Office, Login, Password)
-
 **Patients** — пациенты (Id, LastName, FirstName, MiddleName, BirthDate, OMS, Phone, Email, Address, Password)
-
 **Appointments** — записи на приём (Id, PatientId, DoctorId, AppointmentDate, AppointmentTime, Status, CreatedAt)
 
 ## Функциональность
