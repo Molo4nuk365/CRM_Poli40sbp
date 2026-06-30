@@ -64,7 +64,10 @@ namespace CRM_Poli40
             btnAdmin.Click += (s, e) =>
             {
                 var res = Database.LoginAdmin(adminLoginTextBox.Text.Trim(), adminPasswordTextBox.Text);
-                if (res.id == -1) { MessageBox.Show("Неверный логин или пароль"); return; }
+                if (res.id == -1)
+                { 
+                    MessageBox.Show("Неверный логин или пароль"); return; 
+                }
                 Hide(); new AdminForm(res.fullName).ShowDialog(); Show();
             };
             adminTab.Controls.Add(btnAdmin);
@@ -86,7 +89,10 @@ namespace CRM_Poli40
             btnDoc.Click += (s, e) =>
             {
                 var res = Database.LoginDoctor(doctorLoginTextBox.Text.Trim(), doctorPasswordTextBox.Text);
-                if (res.id == -1) { MessageBox.Show("Неверный логин или пароль"); return; }
+                if (res.id == -1) 
+                { 
+                    MessageBox.Show("Неверный логин или пароль"); return; 
+                }
                 Hide(); new DoctorForm(res.id, res.ln + " " + res.fn).ShowDialog(); Show();
             };
             doctorTab.Controls.Add(btnDoc);
@@ -108,7 +114,10 @@ namespace CRM_Poli40
             btnPat.Click += (s, e) =>
             {
                 var res = Database.LoginPatient(patientOmsTextBox.Text.Trim(), patientPasswordTextBox.Text);
-                if (res.id == -1) { MessageBox.Show("Неверный ОМС или пароль"); return; }
+                if (res.id == -1) 
+                {
+                    MessageBox.Show("Неверный ОМС или пароль"); return; 
+                }
                 Hide(); new PatientForm(res.id, res.ln + " " + res.fn).ShowDialog(); Show();
             };
             patientTab.Controls.Add(btnPat);
@@ -133,8 +142,14 @@ namespace CRM_Poli40
 
         private void AddField(TabPage page, string labelText, int y, out TextBox textBox, bool isPassword = false)
         {
-            Label lbl = new Label { Text = labelText, Location = new Point(15, y), AutoSize = true };
-            textBox = new TextBox { Location = new Point(100, y - 3), Width = 270 };
+            Label lbl = new Label 
+            { 
+                Text = labelText, Location = new Point(15, y), AutoSize = true
+            };
+            textBox = new TextBox 
+            { 
+                Location = new Point(100, y - 3), Width = 270
+            };
             if (isPassword) textBox.PasswordChar = '*';
             page.Controls.Add(lbl);
             page.Controls.Add(textBox);

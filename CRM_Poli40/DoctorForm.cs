@@ -36,8 +36,13 @@ namespace CRM_Poli40
             }
             catch { }
 
-            Label lblDate = new Label { Text = "Дата приёма:", Location = new Point(10, 12), AutoSize = true };
+            Label lblDate = new Label 
+            { 
+                Text = "Дата приёма:", Location = new Point(10, 12), AutoSize = true
+            };
+            
             dtpDate = new DateTimePicker
+
             {
                 Location = new Point(120, 9),
                 Width = 130,
@@ -47,8 +52,12 @@ namespace CRM_Poli40
             Controls.Add(lblDate);
             Controls.Add(dtpDate);
 
-            lstSchedule = new ListBox { Location = new Point(10, 40), Width = 500, Height = 230 };
-            Controls.Add(lstSchedule);
+            lstSchedule = new ListBox
+            { 
+                Location = new Point(10, 40),
+                Width = 500, 
+                Height = 230 };
+                Controls.Add(lstSchedule);
 
             Button btnDone = new Button
             {

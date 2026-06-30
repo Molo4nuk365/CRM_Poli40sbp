@@ -72,8 +72,18 @@ namespace CRM_Poli40
 
         private void AddField(string labelText, ref int y, out TextBox textBox, bool isPassword = false)
         {
-            Label lbl = new Label { Text = labelText, Location = new Point(30, y), AutoSize = true };
-            textBox = new TextBox { Location = new Point(150, y - 3), Width = 260 };
+            Label lbl = new Label 
+            { 
+                Text = labelText,
+                Location = new Point(30, y),
+                AutoSize = true 
+            };
+            textBox = new TextBox
+            { 
+                Location = new Point(150, y - 3), 
+                Width = 260
+            };
+
             if (isPassword) textBox.PasswordChar = '*';
             Controls.Add(lbl);
             Controls.Add(textBox);
@@ -82,7 +92,11 @@ namespace CRM_Poli40
 
         private void AddDateField(string labelText, ref int y, out DateTimePicker datePicker)
         {
-            Label lbl = new Label { Text = labelText, Location = new Point(30, y), AutoSize = true };
+            Label lbl = new Label 
+            { 
+                Text = labelText, Location = new Point(30, y),
+                AutoSize = true
+            };
             datePicker = new DateTimePicker
             {
                 Location = new Point(150, y - 3),

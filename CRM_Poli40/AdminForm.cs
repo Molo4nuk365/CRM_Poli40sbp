@@ -110,8 +110,19 @@ namespace CRM_Poli40
             Controls.Add(btnDelDoctor);
 
             // Все записи
-            Label lblA = new Label { Text = "Все записи:", Font = new Font("Segoe UI", 10F, FontStyle.Bold), Location = new Point(15, 395), AutoSize = true };
-            lstAppointments = new ListBox { Location = new Point(15, 420), Width = 585, Height = 100 };
+            Label lblA = new Label 
+            { 
+                Text = "Все записи:",
+                Font = new Font("Segoe UI", 10F, FontStyle.Bold),
+                Location = new Point(15, 395),
+                AutoSize = true
+            };
+            lstAppointments = new ListBox
+            { 
+                Location = new Point(15, 420),
+                Width = 585,
+                Height = 100 
+            };
             Controls.Add(lblA); Controls.Add(lstAppointments);
 
             // Кнопка обновления

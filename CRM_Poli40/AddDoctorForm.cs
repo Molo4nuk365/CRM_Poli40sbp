@@ -30,7 +30,15 @@ namespace CRM_Poli40
             AddRow("Пароль:", ref y, lx, fx, fw, out txtPassword, true);
             y += 10;
 
-            Button btnSave = new Button { Text = "Сохранить", Location = new Point(fx, y), Width = fw, Height = 34, BackColor = Color.ForestGreen, ForeColor = Color.White, FlatStyle = FlatStyle.Flat };
+            Button btnSave = new Button 
+            { 
+                Text = "Сохранить",
+                Location = new Point(fx, y),
+                Width = fw, Height = 34,
+                BackColor = Color.ForestGreen,
+                ForeColor = Color.White, 
+                FlatStyle = FlatStyle.Flat 
+            };
             btnSave.Click += BtnSave_Click;
             this.Controls.Add(btnSave);
         }
@@ -39,7 +47,7 @@ namespace CRM_Poli40
         {
             this.Controls.Add(new Label { Text = label, Location = new Point(lx, y), AutoSize = true });
             tb = new TextBox { Location = new Point(fx, y - 3), Width = fw };
-            if (password) tb.PasswordChar = '●';
+            if (password) tb.PasswordChar = '+';
             this.Controls.Add(tb);
             y += 35;
         }

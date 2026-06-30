@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "D:\\CRM_Poli40\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{956E12A8-B172-4043-B788-36F7E8937998}|CRM_Poli40.Test\\CRM_Poli40.Test.csproj|d:\\crm_poli40\\crm_poli40.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{956E12A8-B172-4043-B788-36F7E8937998}|CRM_Poli40.Test\\CRM_Poli40.Test.csproj|solutionrelative:crm_poli40.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\adddoctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\adddoctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\addpatientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\addpatientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|d:\\crm_poli40\\crm_poli40\\addpatientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\addpatientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|d:\\crm_poli40\\crm_poli40\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|d:\\crm_poli40\\crm_poli40\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -39,24 +51,16 @@
       "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{956E12A8-B172-4043-B788-36F7E8937998}|CRM_Poli40.Test\\CRM_Poli40.Test.csproj|d:\\crm_poli40\\crm_poli40.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956E12A8-B172-4043-B788-36F7E8937998}|CRM_Poli40.Test\\CRM_Poli40.Test.csproj|solutionrelative:crm_poli40.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CRM_Poli40\\packages\\SourceGear.sqlite3.3.50.4.5\\build\\net471\\SourceGear.sqlite3.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\SourceGear.sqlite3.3.50.4.5\\build\\net471\\SourceGear.sqlite3.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\addpatientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\addpatientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\adddoctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\adddoctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|D:\\CRM_Poli40\\crm_poli40\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -83,10 +87,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|d:\\crm_poli40\\crm_poli40\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|d:\\crm_poli40\\crm_poli40\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{C233EABA-0A90-44EC-8152-38A0FB89A201}|CRM_Poli40\\CRM_Poli40.csproj|solutionrelative:crm_poli40\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -96,60 +96,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "CRM_Poli40.Test\\UnitTest1.cs",
-              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40.Test\\UnitTest1.cs",
-              "RelativeToolTip": "CRM_Poli40.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AddPatientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\AddPatientForm.cs",
+              "RelativeDocumentMoniker": "CRM_Poli40\\AddPatientForm.cs",
+              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\AddPatientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CRM_Poli40\\AddPatientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T00:20:30.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\AdminForm.cs",
-              "RelativeDocumentMoniker": "CRM_Poli40\\AdminForm.cs",
-              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "CRM_Poli40\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T23:41:40.349Z",
+              "WhenOpened": "2026-06-30T01:23:35.982Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DoctorForm.cs",
-              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\DoctorForm.cs",
-              "RelativeDocumentMoniker": "CRM_Poli40\\DoctorForm.cs",
-              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\DoctorForm.cs",
-              "RelativeToolTip": "CRM_Poli40\\DoctorForm.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAuwJIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T19:37:05.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SourceGear.sqlite3.props",
-              "DocumentMoniker": "D:\\CRM_Poli40\\packages\\SourceGear.sqlite3.3.50.4.5\\build\\net471\\SourceGear.sqlite3.props",
-              "RelativeDocumentMoniker": "packages\\SourceGear.sqlite3.3.50.4.5\\build\\net471\\SourceGear.sqlite3.props",
-              "ToolTip": "D:\\CRM_Poli40\\packages\\SourceGear.sqlite3.3.50.4.5\\build\\net471\\SourceGear.sqlite3.props",
-              "RelativeToolTip": "packages\\SourceGear.sqlite3.3.50.4.5\\build\\net471\\SourceGear.sqlite3.props",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-06-29T21:20:41.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Database.sql ",
               "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\Database.sql",
               "RelativeDocumentMoniker": "CRM_Poli40\\Database.sql",
@@ -162,94 +125,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\Program.cs",
-              "RelativeDocumentMoniker": "CRM_Poli40\\Program.cs",
-              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\Program.cs",
-              "RelativeToolTip": "CRM_Poli40\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T19:42:07.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\LoginForm.cs",
               "RelativeDocumentMoniker": "CRM_Poli40\\LoginForm.cs",
               "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\LoginForm.cs",
               "RelativeToolTip": "CRM_Poli40\\LoginForm.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAhwG8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAgwJYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-29T19:35:55.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AdminForm.cs",
               "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\AdminForm.cs",
               "RelativeDocumentMoniker": "CRM_Poli40\\AdminForm.cs",
               "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\AdminForm.cs",
               "RelativeToolTip": "CRM_Poli40\\AdminForm.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwHkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAIwHwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-29T19:38:44.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "RegisterForm.cs",
               "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\RegisterForm.cs",
               "RelativeDocumentMoniker": "CRM_Poli40\\RegisterForm.cs",
               "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\RegisterForm.cs",
               "RelativeToolTip": "CRM_Poli40\\RegisterForm.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAAAJ8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAQwGIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T19:31:34.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Database.cs",
-              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\Database.cs",
-              "RelativeDocumentMoniker": "CRM_Poli40\\Database.cs",
-              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\Database.cs",
-              "RelativeToolTip": "CRM_Poli40\\Database.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAhwCwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T19:30:22.281Z",
+              "WhenOpened": "2026-06-29T19:31:34.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PatientForm.cs",
-              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\PatientForm.cs",
-              "RelativeDocumentMoniker": "CRM_Poli40\\PatientForm.cs",
-              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\PatientForm.cs",
-              "RelativeToolTip": "CRM_Poli40\\PatientForm.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAcwKgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T19:34:49.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AddDoctorForm.cs",
-              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\AddDoctorForm.cs",
-              "RelativeDocumentMoniker": "CRM_Poli40\\AddDoctorForm.cs",
-              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\AddDoctorForm.cs",
-              "RelativeToolTip": "CRM_Poli40\\AddDoctorForm.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T19:40:58.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "PatientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\PatientForm.cs",
               "RelativeDocumentMoniker": "CRM_Poli40\\PatientForm.cs",
@@ -261,19 +175,122 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "AddPatientForm.cs",
               "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\AddPatientForm.cs",
               "RelativeDocumentMoniker": "CRM_Poli40\\AddPatientForm.cs",
               "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\AddPatientForm.cs",
               "RelativeToolTip": "CRM_Poli40\\AddPatientForm.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAA8wHkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAwwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T19:39:49.815Z"
+              "WhenOpened": "2026-06-29T19:39:49.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddDoctorForm.cs",
+              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\AddDoctorForm.cs",
+              "RelativeDocumentMoniker": "CRM_Poli40\\AddDoctorForm.cs",
+              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\AddDoctorForm.cs",
+              "RelativeToolTip": "CRM_Poli40\\AddDoctorForm.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T19:40:58.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\Database.cs",
+              "RelativeDocumentMoniker": "CRM_Poli40\\Database.cs",
+              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\Database.cs",
+              "RelativeToolTip": "CRM_Poli40\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T19:30:22.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\Program.cs",
+              "RelativeDocumentMoniker": "CRM_Poli40\\Program.cs",
+              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\Program.cs",
+              "RelativeToolTip": "CRM_Poli40\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T19:42:07.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CRM_Poli40.Test\\UnitTest1.cs",
+              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40.Test\\UnitTest1.cs",
+              "RelativeToolTip": "CRM_Poli40.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T00:20:30.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientForm.cs",
+              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\PatientForm.cs",
+              "RelativeDocumentMoniker": "CRM_Poli40\\PatientForm.cs",
+              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\PatientForm.cs",
+              "RelativeToolTip": "CRM_Poli40\\PatientForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T19:34:49.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorForm.cs",
+              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\DoctorForm.cs",
+              "RelativeDocumentMoniker": "CRM_Poli40\\DoctorForm.cs",
+              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\DoctorForm.cs",
+              "RelativeToolTip": "CRM_Poli40\\DoctorForm.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAwwDsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T19:37:05.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "SourceGear.sqlite3.props",
+              "DocumentMoniker": "D:\\CRM_Poli40\\packages\\SourceGear.sqlite3.3.50.4.5\\build\\net471\\SourceGear.sqlite3.props",
+              "RelativeDocumentMoniker": "packages\\SourceGear.sqlite3.3.50.4.5\\build\\net471\\SourceGear.sqlite3.props",
+              "ToolTip": "D:\\CRM_Poli40\\packages\\SourceGear.sqlite3.3.50.4.5\\build\\net471\\SourceGear.sqlite3.props",
+              "RelativeToolTip": "packages\\SourceGear.sqlite3.3.50.4.5\\build\\net471\\SourceGear.sqlite3.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-06-29T21:20:41.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\AdminForm.cs",
+              "RelativeDocumentMoniker": "CRM_Poli40\\AdminForm.cs",
+              "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CRM_Poli40\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T23:41:40.349Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\LoginForm.cs",
               "RelativeDocumentMoniker": "CRM_Poli40\\LoginForm.cs",
@@ -285,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "NuGet.Config",
               "DocumentMoniker": "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
               "ToolTip": "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -295,18 +312,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "DoctorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\DoctorForm.cs",
               "RelativeDocumentMoniker": "CRM_Poli40\\DoctorForm.cs",
               "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\DoctorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "CRM_Poli40\\DoctorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T20:48:33.04Z"
+              "WhenOpened": "2026-06-29T20:48:33.04Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Microsoft.VisualStudio.FallbackLocation.config",
               "DocumentMoniker": "C:\\Program Files (x86)\\Nuget\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
               "ToolTip": "C:\\Program Files (x86)\\Nuget\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -316,25 +334,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\RegisterForm.cs",
               "RelativeDocumentMoniker": "CRM_Poli40\\RegisterForm.cs",
               "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "CRM_Poli40\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T21:05:55.619Z"
+              "WhenOpened": "2026-06-29T21:05:55.619Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AddDoctorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\CRM_Poli40\\CRM_Poli40\\AddDoctorForm.cs",
               "RelativeDocumentMoniker": "CRM_Poli40\\AddDoctorForm.cs",
               "ToolTip": "D:\\CRM_Poli40\\CRM_Poli40\\AddDoctorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "CRM_Poli40\\AddDoctorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T20:11:10.717Z"
+              "WhenOpened": "2026-06-29T20:11:10.717Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         }

@@ -61,9 +61,19 @@ namespace CRM_Poli40
 
         private void AddRow(string label, ref int y, int lx, int fx, int fw, out TextBox tb, bool password = false)
         {
-            this.Controls.Add(new Label { Text = label, Location = new Point(lx, y), AutoSize = true });
-            tb = new TextBox { Location = new Point(fx, y - 3), Width = fw };
-            if (password) tb.PasswordChar = '●';
+            this.Controls.Add(new Label 
+            { 
+                Text = label, 
+                Location = new Point(lx, y),
+                AutoSize = true 
+            });
+            tb = new TextBox
+            { 
+                Location = new Point(fx, y - 3),
+                Width = fw 
+            };
+
+            if (password) tb.PasswordChar = '+';
             this.Controls.Add(tb);
             y += 35;
         }

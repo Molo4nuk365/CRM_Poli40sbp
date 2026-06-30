@@ -7,6 +7,7 @@ namespace CRM_Poli40
 {
     public static class Database
     {
+        //Строчка подклюсения MSSQLLocalDB (SSMS)
         private static readonly string masterConn = "Server=(localdb)\\MSSQLLocalDB;Integrated Security=True;";
         private static readonly string dbConn = "Server=(localdb)\\MSSQLLocalDB;Database=Polyclinic40;Integrated Security=True;";
 
@@ -16,24 +17,24 @@ namespace CRM_Poli40
             conn.Open();
             return conn;
         }
-
+         
         public static void Initialize()
         {
-            // 1. Создаём базу, если её нет
+            // Создаём базу, если её нет
             using (var conn = new SqlConnection(masterConn))
             {
                 conn.Open();
                 new SqlCommand("IF DB_ID('Polyclinic40') IS NULL CREATE DATABASE Polyclinic40", conn).ExecuteNonQuery();
             }
 
-            // 2. Проверяем наличие таблиц
+            // Проверяем наличие таблиц
             bool tablesExist = false;
             using (var conn = OpenConnection())
             {
                 tablesExist = (int)new SqlCommand("SELECT COUNT(*) FROM sys.tables WHERE name = 'Admins'", conn).ExecuteScalar() > 0;
             }
 
-            // 3. Если таблиц нет – выполняем SQL-скрипт
+            // Если таблиц нет – выполняем SQL-скрипт
             if (!tablesExist)
             {
                 string sqlFile = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Database.sql");
@@ -46,7 +47,7 @@ namespace CRM_Poli40
                 }
             }
 
-            // 4. ВСЕГДА хешируем пароли, если есть открытые
+            //  ВСЕГДА хешируем пароли, если есть открытые
             using (var conn = OpenConnection())
             {
                 HashAllPasswords(conn);
@@ -81,7 +82,7 @@ namespace CRM_Poli40
             }
         }
 
-        // ================== Методы аутентификации ==================
+        //  Методы аутентификации 
         public static (int id, string fullName) LoginAdmin(string login, string password)
         {
             using (var conn = OpenConnection())
@@ -97,7 +98,10 @@ namespace CRM_Poli40
                             if (BCrypt.Net.BCrypt.Verify(password, r.GetString(2)))
                                 return (r.GetInt32(0), r.GetString(1));
                         }
-                        catch { }
+                        catch 
+                        {
+                        
+                        }
                     }
                 }
             }
@@ -119,7 +123,10 @@ namespace CRM_Poli40
                             if (BCrypt.Net.BCrypt.Verify(password, r.GetString(3)))
                                 return (r.GetInt32(0), r.GetString(1), r.GetString(2));
                         }
-                        catch { }
+                        catch 
+                        { 
+                        
+                        }
                     }
                 }
             }

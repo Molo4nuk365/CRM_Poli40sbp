@@ -71,8 +71,17 @@ namespace CRM_Poli40
             btnBook.Click += (s, e) => BookAppointment();
 
             // Мои записи
-            Label lblAppt = new Label { Text = "Мои записи:", Font = new Font("Segoe UI", 11F, FontStyle.Bold), Location = new Point(340, 10), AutoSize = true };
-            lstAppointments = new ListBox { Location = new Point(340, 38), Width = 285, Height = 200 };
+            Label lblAppt = new Label
+            { 
+                Text = "Мои записи:", 
+                Font = new Font("Segoe UI", 11F, FontStyle.Bold),
+                Location = new Point(340, 10),
+                AutoSize = true 
+            };
+            lstAppointments = new ListBox 
+            { 
+                Location = new Point(340, 38), Width = 285, Height = 200
+            };
             Button btnCancel = new Button
             {
                 Text = "Отменить",
@@ -191,7 +200,17 @@ namespace CRM_Poli40
             }
         }
 
-        class DoctorItem { public int Id; public string Text; public override string ToString() => Text; }
-        class AppItem { public int Id; public string Text; public override string ToString() => Text; }
+        class DoctorItem 
+        { 
+            public int Id;
+            public string Text;
+            public override string ToString() => Text;
+        }
+        class AppItem
+        { 
+            public int Id;
+            public string Text;
+            public override string ToString() => Text;
+        }
     }
 }
